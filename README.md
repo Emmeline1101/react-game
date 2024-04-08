@@ -18,3 +18,7 @@
    ```
 ## To-do list
 1. Add the feature of time travel
+
+## Demo
+- Deploy: https://react-game-ashy-alpha.vercel.app/
+- 
