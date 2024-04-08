@@ -21,4 +21,5 @@
 
 ## Demo
 - Deploy: https://react-game-ashy-alpha.vercel.app/
-- 
+- ![Example](https://github.com/Emmeline1101/react-game/blob/main/example.png)
+
